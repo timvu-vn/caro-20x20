@@ -200,11 +200,11 @@ body {
 }
 
 .cell.x {
-    color: #f44336;
+    color: #4CAF50;
 }
 
 .cell.o {
-    color: #2196F3;
+    color: #FF69B4;
 }
 
 .cell.winning {
